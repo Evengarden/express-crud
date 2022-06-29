@@ -10,12 +10,14 @@ Routes
 
 Example app/config/config.js
 ---
-const config = {
-  JWT_KEY: "yourkey",
-  HOST: "localhost",
-  USER: "root",
-  PASSWORD: "root",
-  DB: "db",
-};
-export default config;
+
+    const config = {
+    JWT_KEY: "yourkey",
+    HOST: "localhost",
+    USER: "root",
+    PASSWORD: "root",
+    DB: "db",
+    };
+    export default config;
+
 ---
