@@ -17,6 +17,5 @@ const config = {
   PASSWORD: "root",
   DB: "db",
 };
-
 export default config;
 ---
